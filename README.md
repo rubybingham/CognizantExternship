@@ -9,4 +9,5 @@ Assignment Hands on Data Structures has been uploaded 6/10/25. \
 Assignment Implement Your own Data Structures has been uploaded 6/10/25.\
 Assignment About Parameters of Functions has been uploaded 6/10/25.\
 Assignment About Menu has been uploaded 6/10/25.\
-Assignment Check Your Knowledge on Errors has been uploaded 6/15/25.
+Assignment Check Your Knowledge on Errors has been uploaded 6/15/25.\
+Assignment Calculator with Exception Handling has been uploaded on 6/15/25.
